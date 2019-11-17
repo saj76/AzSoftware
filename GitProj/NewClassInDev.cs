@@ -9,5 +9,6 @@ namespace GitProj
     public class NewClassInDev
     {
         public static int NewFunc1() => 1;
+        public static int NewFunc2() => 3;
     }
 }
