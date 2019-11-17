@@ -9,5 +9,7 @@ namespace GitProj
     class TestClass1
     {
         public static void TestFunc1(int main) => new NotImplementedException();
+
+        public static void TestFunc2(int input) => new NotImplementedException();
     }
 }
