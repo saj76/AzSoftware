@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace GitProj
 {
-    class NewClassInDev
+    public class NewClassInDev
     {
+        public static int NewFunc1() => 1;
     }
 }
