@@ -8,5 +8,9 @@ namespace GitProj
 {
     public class Class1
     {
+        public void TestFunc1(int input)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
