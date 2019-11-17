@@ -1,0 +1,41 @@
+* [33mcommit 2e5b07fdf5d553f03cd24a5829daec72c4776352[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+[31m|[m Author: saj76 <saj1397@gmail.com>
+[31m|[m Date:   Sun Nov 17 17:57:01 2019 +0330
+[31m|[m 
+[31m|[m     Stash test
+[31m|[m 
+* [33mcommit 92ce9e204ead2af9f0f83f7174526e78f02ac4f9[m[33m ([m[1;32mdev[m[33m)[m
+[31m|[m Author: saj76 <saj1397@gmail.com>
+[31m|[m Date:   Sun Nov 17 17:35:50 2019 +0330
+[31m|[m 
+[31m|[m     new Func
+[31m|[m 
+* [33mcommit 9ac7987bf1e6e169782751dda3179029a698d95f[m
+[31m|[m Author: saj76 <saj1397@gmail.com>
+[31m|[m Date:   Sun Nov 17 17:34:04 2019 +0330
+[31m|[m 
+[31m|[m     add NewClassInDev class
+[31m|[m 
+* [33mcommit b9eba62724c80fa3e1908b93d70077fd10c0646b[m
+[31m|[m Author: saj76 <saj1397@gmail.com>
+[31m|[m Date:   Sun Nov 17 17:30:23 2019 +0330
+[31m|[m 
+[31m|[m     add some functions to testClass1
+[31m|[m 
+* [33mcommit e0e9fe4c538741d27a48249396676cf2cd584510[m
+[31m|[m Author: saj76 <saj1397@gmail.com>
+[31m|[m Date:   Sun Nov 17 17:13:02 2019 +0330
+[31m|[m 
+[31m|[m     add TestFunction1
+[31m|[m 
+* [33mcommit 480d233e1531c219adbe3505f7bcc2078102aa8a[m
+[31m|[m Author: saj76 <saj1397@gmail.com>
+[31m|[m Date:   Sun Nov 17 17:01:08 2019 +0330
+[31m|[m 
+[31m|[m     Add project files.
+[31m|[m 
+* [33mcommit 34af91778ef73e2b1861a85b1ce866599f538be7[m
+  Author: saj76 <saj1397@gmail.com>
+  Date:   Sun Nov 17 17:01:02 2019 +0330
+  
+      Add .gitignore and .gitattributes.
